@@ -58,12 +58,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/om-parihar/om-parihar/blob/output/snake.svg)
-
----
-
 ## 🌟 Quote
 
 > “Consistency beats talent when talent doesn’t work hard.”
